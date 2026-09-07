@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="динаміка/динаміка.vcxproj" Id="4290ea61-d08f-4f16-be4d-434118c792fe" />
+</Solution>
